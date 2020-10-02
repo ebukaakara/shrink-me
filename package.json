@@ -1,0 +1,20 @@
+{
+  "name": "shrink-me",
+  "version": "1.0.0",
+  "description": "a url-shortener",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "ebuka akara",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.7",
+    "shortid": "^2.2.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
