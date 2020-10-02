@@ -5,7 +5,7 @@ const app = express();
 
 // Connect database
 const db =
-   'mongodb+srv://ebuka:akara@cluster0.3un02.mongodb.net/shrinkme?retryWrites=true&w=majority';
+   '************************************************************************';
 
 mongoose
    .connect(db, {
